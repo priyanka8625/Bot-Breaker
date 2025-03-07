@@ -26,3 +26,5 @@
 🎯 **ML Model Demo:** [Streamlit App](https://passive-captcha-ml-solution.streamlit.app/)  
 🎥 **Project Demo Video:** [Watch Here](https://youtu.be/ANMIA00MvIc?si=p8f13S7QrOhL-d66)
 
+
+📌 This project was developed as part of Smart India Hackathon 2024.
