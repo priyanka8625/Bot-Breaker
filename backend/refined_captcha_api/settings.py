@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-ct_cs*85jgh39$9izra$kjcn@!$wjxn8$052k_u_(ihd@+xd36
 DEBUG = True
 
 # allowed backend hosts
-ALLOWED_HOSTS = ["your-backend.onrender.com"]
+ALLOWED_HOSTS = []
 
 
 # Application definition
